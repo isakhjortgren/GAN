@@ -1,2 +1,2 @@
-# LGP-for-DL
-This repo will soon implement a genetic algorithm (linear genetic programming) for hyper parameter optimization of neural networks of different kinds. The most interesting part is if LGP can be used for deciding on network structure, type of layers, number of layers, connections, regularization, etc. 
+# Progressivly growing GAN
+This Repo aim to implement a version of a progressively growing GAN
